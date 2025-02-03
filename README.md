@@ -1,1 +1,1 @@
-link chạy: https://github.com/Zerossne/dinhan2511.git
+link chạy: https://ledinhan2511.github.io/crush3/
